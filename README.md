@@ -10,4 +10,3 @@ In this paper, we contribute to this problem space with a value-based quadtree i
 Repo Organization:
 - Scripts: main.R includes all the pipeline steps organized in separate R-scripts.
 - Data: holds raw and clean data including instructions on how to get the publicly available data including the results from the individual scripts (need to be unpacked).
-- Results: place holder to store results from the data pipeline.
